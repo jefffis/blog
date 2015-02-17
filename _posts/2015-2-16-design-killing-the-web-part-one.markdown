@@ -38,6 +38,12 @@ So, please, for the webs sake; **give a shit about your users**. They don't need
 
 Stay tuned for part two of **Giving a shit about your users**; but for now [head back home](/).
 
+<hr>
+
+## Don't even get me started
+
+On shit like Taco Bell & [only on the app](http://adage.com/article/digital/taco-bell-launches-mobile-app-blacks-social-sites/295604/). Yes, it's a clever marketing stunt, and you & I know that; but the average non-techy doesn't see the danger in appifying the web. But that's for another time...
+
 ### Gotchas and exceptions
 
 Top level site navigation is excluded from this rant. Will update other notes here as feedback rolls in.
