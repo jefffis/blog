@@ -10,7 +10,9 @@ But then us designers decided this was silly, and ugly, and not good enough. So 
 
 ## But Tim Berners-Lee a designer was not
 
-[True, he was not and is not](http://www.w3.org/People/Berners-Lee/). But, not all problems can be, or should be solved, by designers (I know, crazy that I would suggest this!). By this I mean that the web was built for information consumption and sharing. It was not built for pixel perfection, media queries sniffing, parallax scrolljacking, retina jargon, etc... As the Information Architects quipped so eloquently, [the web is 95% typography](https://ia.net/know-how/the-web-is-all-about-typography-period). So why does it feel like we designers are pushing our users away from tried and true web design paradigms that worked from the get go?
+[True, he was not and is not](http://www.w3.org/People/Berners-Lee/). But, just because he wasn't a deisnger, and just because the original iteration of the web was not as aesthetically pleasing as it could be does not mean the original authors got much wrong. Dare I say it: not all original design paradigms for the web are problems for designers to solve (I know, crazy that I would suggest this!). By this I mean that the web was built for information consumption and sharing. It was not built for pixel perfection, media query sniffing, parallax scrolljacking, retina jargon, etc... As Information Architects quipped so eloquently, [the web is 95% typography](https://ia.net/know-how/the-web-is-all-about-typography-period), and that means first and foremost content consumption needs to remain the paramount goal.
+
+So why does it feel like we designers are pushing our users away from tried and true web design paradigms that worked from the get go?
 
 ## Underline all the links
 
