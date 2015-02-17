@@ -1,0 +1,111 @@
+// @import 'btn';
+$grey: #756767;
+$dgrey: #040407;
+$blue: rgb(0, 0, 238);
+$purple: rgb(85, 26, 139);
+$yellow: #FAF9C8;
+
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+// .cf:before,
+// .cf:after {
+//     content: " "; /* 1 */
+//     display: table; /* 2 */
+// }
+// .cf:after, .clr {
+//     clear: both;
+// }
+html, body {
+	background: white;
+	color: $grey;
+	font: normal 100%/1.5 sans-serif;
+	height: auto;
+	margin: auto;
+	max-width: 32rem;
+	min-height: 100%;
+	width: 100%;
+}
+body {
+	padding: 2rem 1.5rem;
+}
+a {
+	color: $blue;
+}
+a:visited {
+	color: $purple;
+}
+a:active {
+	outline: 1px dotted currentColor;
+}
+h3, h4, p {
+	font-weight: normal;
+	margin: 0 0 25px;
+}
+h1, h2 {
+	line-height: 1.1;
+}
+h1 {
+	color: $dgrey;
+	font-size: 2.5rem;
+}
+small {
+	background: $yellow;
+	display: inline-block;
+	float: right;
+	line-height: 1;
+	padding: .25rem;
+	+ p {
+		clear: both;
+		padding-top: 1.5rem;
+	}
+}
+strong {
+	color: $dgrey;
+}
+p {
+	+ h2, + h3 {
+		margin-top: 50px;
+	}
+	&:last-child {
+		margin-bottom: 0;
+	}
+}
+code {
+	color: $dgrey;
+	font-size: 16px;
+}
+article {
+	+ article {
+		margin-top: 2rem;
+	}
+	h2, h3 {
+		color: $dgrey;
+		font-weight: normal;
+		position: relative;
+		&:before {
+			color: $grey;
+			content: "\00B6";
+			font-size: 1rem;
+			left: -1rem;
+			line-height: 1.45;
+			opacity: .75;
+			position: absolute;
+			top: 0;
+		}
+	}
+	p {
+		&:last-child {
+			a {
+				// @extend .btn;
+			}
+		}
+	}
+}
+footer {
+	border-top: 2px solid lighten($grey, 15%);
+	margin-top: 2rem;
+	padding-top: 2rem;
+}

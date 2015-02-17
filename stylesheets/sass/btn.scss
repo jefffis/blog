@@ -1,0 +1,25 @@
+$blue: rgb(0, 0, 238);
+$purple: rgb(85, 26, 139);
+
+.btn {
+	background: $blue;
+	box-shadow: 0 0 0 2px rgba(0,0,0,0.15) inset;
+	border-radius: 5px;
+	color: white;
+	font-size: 1.25rem;
+	display: inline-block;
+	line-height: 1;
+	padding: .75rem;
+	text-align: center;
+	text-decoration: none;
+	&:hover, &:focus {
+		box-shadow: 0 0 0 2px rgba(0,0,0,0.2) inset;
+	}
+	&:active {
+		background: darken($blue, 15%);
+	}
+	&:visited {
+		background: $purple;
+		color: white;
+	}
+}

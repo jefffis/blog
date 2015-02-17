@@ -1,0 +1,13 @@
+---
+layout: index
+---
+
+{% include headerbit.html %}
+		{% for post in site.posts %}
+		<article>
+			<h1>{{post.title}}</h1>
+			<small>Mused on <strong>{{ post.date | date: "%B %d, %Y" }}</strong></small>
+			{{post.content}}
+		</article>
+		{% endfor %}
+{% include footerbit.html %}
