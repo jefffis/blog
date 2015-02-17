@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Give a shit: Design & designers are killing the web.'
+context: 'First in a series of two&ndash; to four&ndash;posts, the entirety is not determined yet&hellip;'
 ---
 
 We designers are trying our damndest to kill the web. And we've been doing it since web design became a thing. Think about this: the responsive web is **something we had to make because we broke it**. The web, in its very own nature is responsive. Try it out: [disable the CSS](https://developer.yahoo.com/blogs/ydn/temporarily-disable-css-testing-53538.html) & [JavaScript](http://www.alanwood.net/demos/enabling-javascript.html) in your broser and see. Albeit it may not have been the most attractive to consume, but when it was born, the web adapted naturally to browsers of all sizes and shapes.

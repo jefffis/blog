@@ -5,6 +5,7 @@ layout: index
 {% include headerbit.html %}
 		{% for post in site.posts %}
 		<article>
+			<h4>{{post.context}}</h4>
 			<h1>{{post.title}}</h1>
 			<small>Mused on <strong>{{ post.date | date: "%B %d, %Y" }}</strong></small>
 			{{post.content}}
