@@ -39,6 +39,11 @@
     <body>
         <header>
             <h3>
+                {% if page.url == "/index.html" %}
+                Musings by Jefff
+                {% else %}
                 <a href="{{site.site_link}}">Musings by Jefff</a>
+                {% endif %}
             </h3>
         </header>
+        <hr>

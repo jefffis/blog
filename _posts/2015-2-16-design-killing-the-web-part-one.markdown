@@ -30,6 +30,12 @@ Secondly, as the web continues to expand into the third world, older/less advanc
 
 So, please, for the webs sake; **give a shit about your users**. They don't need that overzealous parallax effect, or that 4MB image, and they certainly don't need to spend energy to figure out what is a link and what is not. Also remember; unlimited data plans are dying, and we need to care about what we take from our users, not just what we give to them.
 
+## For further reading
+
+[Check out some results of a simple Google on the matter](https://www.google.com/search?q=why%20underlining%20hyperlinks%20on%20the%20web%20is%20important&rct=j).
+
+<hr>
+
 Stay tuned for part two of **Giving a shit about your users**; but for now [head back home](/).
 
 ### Gotchas and exceptions

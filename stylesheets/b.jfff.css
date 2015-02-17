@@ -58,6 +58,13 @@ code {
   color: #040407;
   font-size: 16px; }
 
+header h3 {
+  color: #040407;
+  text-align: right; }
+
+footer h4 {
+  text-align: right; }
+
 article + article {
   margin-top: 2rem; }
 article h2, article h3 {
@@ -74,10 +81,11 @@ article h2, article h3 {
     position: absolute;
     top: 0; }
 
-footer {
-  border-top: 2px solid #9b8d8d;
-  margin-top: 2rem;
-  padding-top: 2rem; }
+hr {
+  border: 0;
+  background: #efecec;
+  height: 3px;
+  margin: 2rem 0; }
 
 @media screen and (max-width: 32.5rem) {
   article h2:before, article h3:before {

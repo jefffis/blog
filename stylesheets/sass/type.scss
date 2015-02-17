@@ -77,6 +77,17 @@ code {
 	color: $dgrey;
 	font-size: 16px;
 }
+header {
+	h3 {
+		color: $dgrey;
+		text-align: right;
+	}
+}
+footer {
+	h4 {
+		text-align: right;
+	}
+}
 article {
 	+ article {
 		margin-top: 2rem;
@@ -104,8 +115,9 @@ article {
 		}
 	}
 }
-footer {
-	border-top: 2px solid lighten($grey, 15%);
-	margin-top: 2rem;
-	padding-top: 2rem;
+hr {
+	border: 0;
+	background: lighten($grey, 50%);
+	height: 3px;
+	margin: 2rem 0;
 }
