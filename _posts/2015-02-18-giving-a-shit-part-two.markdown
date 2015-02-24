@@ -4,7 +4,9 @@ title: 'Give a shit: How to not lose focus.'
 context: 'Second in a series of two&ndash; to four&ndash;posts, the entirety is not determined yet&hellip;'
 ---
 
-The title kinda says it all: Don't lose focus. Either of what you want your users to do on your site, but more specifically, don't lose the oft forgetten pseudo styling for interactions. CSS resets are great, but often times you'll reset default browser styling that, unless properly redefined, is critical to the user.
+The title kinda says it all: Don't lose focus. Either of what you want your users to do on your site, but more specifically, don't lose the oft forgotten pseudo styling for interactions. CSS resets are great, but often times you'll reset default browser styling that, unless properly redefined, is critical to helping your users when interacting with any type of website.
+
+Even in 2015, these necessary actions are understyled, or not styled at all. Please, stop screwing up your users experiences.
 
 ## :hover
 
