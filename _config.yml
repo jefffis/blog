@@ -7,3 +7,5 @@ site_desc: 'Some web, product and design quips by Jefff.'
 site_file_name: 'b.jfff'
 site_link: 'http://musings.jefff.co/'
 site_full_link: 'http://hire.jefff.co/'
+redcarpet:
+    extensions: [with_toc_data]

@@ -3,12 +3,10 @@ layout: index
 ---
 
 {% include headerbit.html %}
-		{% for post in site.posts %}
 		<article>
-			<h4>{{post.context}}</h4>
-			<h1>{{post.title}}</h1>
-			<small>Mused on <strong>{{ post.date | date: "%B %d, %Y" }}</strong></small>
-			{{post.content}}
+			<h4>{{page.context}}</h4>
+			<h1>{{page.title}}</h1>
+			<small>Mused on <strong>{{ page.date | date: "%B %d, %Y" }}</strong></small>
+			{{content}}
 		</article>
-		{% endfor %}
 {% include footerbit.html %}
